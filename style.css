@@ -28,5 +28,8 @@ h1,h3{
 .bem{
     display:flex;
     justify-content:space-around;
-    flex-wrap: wrap; 
+    flex-wrap : обернуть ;
 }
+a{
+    text-decoration:none;
+}    
