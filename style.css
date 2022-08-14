@@ -2,3 +2,10 @@ header{
     background-color:#1F1F1F;
     color:#797979;
 }
+h1{
+    text-align:center;
+}
+header{
+    display:flex;
+    justify-content:space-around;
+}
