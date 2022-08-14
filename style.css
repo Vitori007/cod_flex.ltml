@@ -28,12 +28,12 @@ h1,h3{
 .bem{
     display:flex;
     justify-content:space-around;
-    flex-wrap : обернуть ;
+    flex-wrap : wrap ;
 }
 a{
     text-decoration:none;
+    color:#797979
 }   
 footer{
     background-color:#1F1F1F;
-    color:#797979;
 }
