@@ -5,7 +5,7 @@ header{
 h1{
     text-align:center;
 }
-header{
+header p{
     display:flex;
     justify-content:space-around;
 }
