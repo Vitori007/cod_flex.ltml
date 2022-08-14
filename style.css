@@ -2,10 +2,6 @@ header{
     background-color:#1F1F1F;
     color:#797979;
 }
-h1{
-    display:flex;
-    justify-content:center;
-}
 .pe{
     display:flex;
     justify-content:space-around;
