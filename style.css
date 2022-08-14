@@ -13,3 +13,7 @@ h1,h3{
     display:flex;
     justify-content:flex-start;
  }
+.odi{
+    display:flex;
+    justify-content:flex-end;
+}    
