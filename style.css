@@ -3,7 +3,8 @@ header{
     color:#797979;
 }
 h1{
-    text-align:center;
+    display:flex;
+    justify-content:center;
 }
 header p{
     display:flex;
