@@ -21,4 +21,12 @@ h1,h3{
     display:flex;
     justify-content:center;
  }
-
+.otc{
+    display:flex;
+    justify-content:space-between;
+}
+.bem{
+    display:flex;
+    justify-content:space-around;
+    flex-wrap: wrap; 
+}
