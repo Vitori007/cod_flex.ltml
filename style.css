@@ -17,3 +17,8 @@ h1,h3{
     display:flex;
     justify-content:flex-end;
 }    
+.istin{
+    display:flex;
+    justify-content:center;
+ }
+
