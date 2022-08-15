@@ -1,7 +1,7 @@
 header{
     background-color:#1F1F1F;
     color:#797979;
-    margin:0px;
+    margin:0px 0px 0px 0px;
 }
 header p{
     font-size:20px;
@@ -43,25 +43,25 @@ p,h3 {
 }
 footer{
     background-color:#1F1F1F;
-    margin:0px;
+    margin:0px 0px 0px 0px;
 }
 .pusto{
         background-image:url('https://oir.mobi/uploads/posts/2021-03/1616963578_18-p-serii-fon-20.jpg');
-        margin:0px;
+        margin:0px 0px 0px 0px;
 }
 .odin{
         background-image:url('https://mobimg.b-cdn.net/v3/fetch/c8/c84afe72a0f7e05c4dc944e5beac9613.jpeg');
-        margin:0px;
+        margin:0px 0px 0px 0px;
 }
 .istina{
         background-image:url('https://krot.info/uploads/posts/2021-01/1611766274_45-p-studiinii-serii-fon-46.jpg');
-        margin:0px;
+        margin:0px 0px 0px 0px;
 }
 .otch{
         background-image:url('https://funart.pro/uploads/posts/2021-04/1618506633_45-funart_pro-p-oboi-fon-tyomno-serii-fon-46.jpg');
-        margin:0px;
+        margin:0px 0px 0px 0px;
 }
 .bessm{
         background-image:url('https://phonoteka.org/uploads/posts/2021-06/1624473166_20-phonoteka_org-p-oboi-grafit-krasivo-22.jpg');
-        margin:0px;
+        margin:0px 0px 0px 0px;
 }
