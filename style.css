@@ -15,14 +15,17 @@ h1,h3{
 }
 .pust{
     display:flex;
+    flex-direction: column;
     justify-content:flex-start;
  }
 .odi{
     display:flex;
+    flex-direction: column;
     justify-content:flex-end;
 }    
 .istin{
     display:flex;
+    flex-direction: column;
     justify-content:center;
  }
 .otc{
@@ -36,7 +39,7 @@ h1,h3{
 }
 a{
     text-decoration:none;
-    color:#797979
+    color:#797979;
 }   
 p,h3 {
     color:#797979;
@@ -54,20 +57,16 @@ footer{
 .odin{
         background-image:url('https://mobimg.b-cdn.net/v3/fetch/c8/c84afe72a0f7e05c4dc944e5beac9613.jpeg');
         margin:0;
-        display:flex;
-        flex-direction: column;
 }
 .istina{
         background-image:url('https://krot.info/uploads/posts/2021-01/1611766274_45-p-studiinii-serii-fon-46.jpg');
         margin: 0;
-        display:flex;
-        flex-direction: column;
 }
 .otch{
         background-image:url('https://funart.pro/uploads/posts/2021-04/1618506633_45-funart_pro-p-oboi-fon-tyomno-serii-fon-46.jpg');
-        margin:0;
+        margin: 0;
 }
 .bessm{
-        margin:0;
+        margin: 0;
         background-image:url('https://phonoteka.org/uploads/posts/2021-06/1624473166_20-phonoteka_org-p-oboi-grafit-krasivo-22.jpg');
 }
