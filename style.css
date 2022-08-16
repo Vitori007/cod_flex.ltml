@@ -2,6 +2,10 @@ body{
     margin: 0;
     padding: 0;
 }
+main {
+    padding: 0;
+    margin: 0;
+}
 header{
     background-color:#1F1F1F;
     color:#797979;
