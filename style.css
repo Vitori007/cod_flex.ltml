@@ -28,6 +28,7 @@ h1,h3{
  }
 .odi{
     display:flex;
+    flex-direction: column;
     justify-content:flex-end;
 }    
 .istin{
@@ -37,6 +38,7 @@ h1,h3{
  }
 .otc{
     display:flex;
+    flex-direction: column;
     justify-content:space-between;
 }
 .bem{
