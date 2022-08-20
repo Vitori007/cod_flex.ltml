@@ -62,15 +62,23 @@ footer{
 .pusto{
         margin: 0;
         background-image:url('https://oir.mobi/uploads/posts/2021-03/1616963578_18-p-serii-fon-20.jpg');
+        display:flex;
+        flex-direction: column; 
+        justify-content:flex-start;
 }
 .odin{
         margin: 0;
-        display:flex;
         background-image:url('https://mobimg.b-cdn.net/v3/fetch/c8/c84afe72a0f7e05c4dc944e5beac9613.jpeg');
+        display:flex;
+        flex-direction: column; 
+        justify-content:flex-end;
 }
 .istina{
         margin: 0;
         background-image:url('https://krot.info/uploads/posts/2021-01/1611766274_45-p-studiinii-serii-fon-46.jpg');
+        display:flex;
+        flex-direction: column; 
+        justify-content:center;
 }
 .otch{
         margin: 0;
