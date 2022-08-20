@@ -25,19 +25,10 @@ h1,h3{
     justify-content:space-around;
 }
 .pust{
-    display:flex;
-    flex-direction: column; 
-    justify-content:flex-start;
  }
 .odi{
-    display:flex;
-    flex-direction: column; 
-    justify-content:flex-end;
 }    
 .istin{
-    display:flex;
-    flex-direction: column; 
-    justify-content:center;
  }
 .otc{
     display:flex;
