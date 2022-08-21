@@ -11,6 +11,10 @@ header{
     color:#797979;
     margin:0;
 }
+a{
+    color:#797979;
+    text-decoration:none;
+}
 header p{
     font-size:20px;
 }
